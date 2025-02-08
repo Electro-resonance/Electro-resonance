@@ -8,3 +8,4 @@ It is dedicated to development of new open source software in the areas of:
 * fundamental constants of physics
 * euro rack modular synthesiser
 * quantum computing
+* consciousness research
