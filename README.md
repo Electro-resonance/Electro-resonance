@@ -1,6 +1,7 @@
 This is the account of electro-resonance. 
 
 It is dedicated to development of new open source software in the areas of:
+* AI, Data Science and NLP Research
 * physics based resonance
 * biophysics
 * plant electrophysiology
